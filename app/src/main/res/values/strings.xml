@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">idltest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_str1">Settings</string>
+    <string name="bt_str2">Settings</string>
+    <string name="loginstr">로그인</string>
+</resources>
