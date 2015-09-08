@@ -6,4 +6,5 @@
     <string name="bt_str1">Settings</string>
     <string name="bt_str2">Settings</string>
     <string name="loginstr">로그인</string>
+    <string name="title_activity_inner">inner</string>
 </resources>
