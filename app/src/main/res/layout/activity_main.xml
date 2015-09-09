@@ -26,8 +26,7 @@
             android:text="@string/loginstr"
             android:id="@+id/loginbtn"
             android:layout_marginLeft="15dp"
-            android:textSize="25dp"
-            android:onClick="onstartbtnClicked" />
+            android:textSize="25dp" />
 
     </LinearLayout>
     <EditText
@@ -39,4 +38,17 @@
         android:textSize="30sp"
         android:password="true"/>
 
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:text=""
+        android:maxLines="100"
+        android:ellipsize="none"
+        android:scrollHorizontally="false"
+        android:singleLine="false"
+        android:id="@+id/textViewtest" />
 </LinearLayout>
