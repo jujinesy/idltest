@@ -29,7 +29,7 @@ import java.io.InputStream;
 
 public class MainActivity extends AppCompatActivity {
 
-    String search_url = "http://104.236.125.9:8080/echo/sdf";
+    String search_url = "http://104.236.125.9:8080/echo/login하자";
     String api_key = "&api_key=등록한 키를 입력하세요";
     String per_page = "&per_page=50";
     String sort = "&sort=interestingness-desc";
